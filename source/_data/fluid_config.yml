@@ -16,23 +16,23 @@ archive:
   banner_img_height: 60
   subtitle: null
 category:
-  banner_img: /images/uploads/1616421669417-wallhaven-1kkm2g.jpg
-  banner_img_height: 56
+  banner_img: /images/uploads/wallhaven-g8wvm7.webp
+  banner_img_height: 48
   subtitle: null
 tag:
   banner_img: /images/uploads/1616421669417-wallhaven-1kkm2g.jpg
-  banner_img_height: 57
+  banner_img_height: 54
   subtitle: null
 about:
   banner_img: /images/uploads/wallhaven-pkkr2.webp
-  banner_img_height: 57
+  banner_img_height: 48
   subtitle: null
   avatar: /img/avatar.png
   name: Fluid
   intro: An elegant theme for Hexo
 links:
   banner_img: /images/uploads/1616421416500-wallhaven-rddv31.jpg
-  banner_img_height: 62
+  banner_img_height: 56
   subtitle: null
   items:
     - title: Fluid Repo
